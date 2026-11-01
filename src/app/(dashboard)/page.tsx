@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { Suspense } from "react";
 import Link from "next/link";
 import { getOpenExceptionCounts, getOpenExceptions } from "@/modules/exceptions/queries";
